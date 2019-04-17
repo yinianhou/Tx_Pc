@@ -1,0 +1,2 @@
+2019-04-10 10:20:55,820 [9] INFO  Tx.Framework.Log.Logger - 系统初始化Logger模块
+2019-04-10 10:20:55,873 [9] INFO  TxMvc.Controllers.HomeController - 测试

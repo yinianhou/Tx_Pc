@@ -1,0 +1,58 @@
+.am-pagination-default {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.6rem;
+}
+
+.am-pagination {
+    position: relative;
+}
+.am-pagination {
+    padding-left: 0;
+    margin: 1.5rem 0;
+    list-style: none;
+    color: #999999;
+    text-align: left;
+}
+
+.am-pagination > li {
+    display: inline-block;
+}
+
+.am-pagination {
+    padding-left: 0;
+    margin: 1.5rem 0;
+    list-style: none;
+    color: #999999;
+    text-align: left;
+}
+
+.am-pagination-default .am-pagination-prev, .am-pagination-default .am-pagination-next {
+    float: none;
+}
+
+.am-pagination {
+    padding-left: 0;
+    margin: 1.5rem 0;
+    list-style: none;
+    color: #999999;
+    text-align: left;
+}
+
+.am-pagination {
+    padding-left: 0;
+    /* margin: 1.5rem 0; */
+    list-style: none;
+    color: #999999;
+    text-align: left;
+}
+
+.am-cf {
+    position: relative;
+    background: #ffffff;
+    font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+    /* font-weight: normal; */
+    line-height: 1.6;
+    /* color: #333333; */
+    font-size: 1.6rem;
+}

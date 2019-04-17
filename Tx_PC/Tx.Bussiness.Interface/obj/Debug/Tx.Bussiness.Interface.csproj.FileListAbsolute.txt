@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Tx.Bussiness.Interface.dll
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Tx.Bussiness.Interface.pdb
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Tx.Framework.dll
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\log4net.dll
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Tx.Framework.pdb
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\log4net.xml
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\obj\Debug\Tx.Bussiness.Interface.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\obj\Debug\Tx.Bussiness.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\obj\Debug\Tx.Bussiness.Interface.csproj.CopyComplete
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\obj\Debug\Tx.Bussiness.Interface.dll
+C:\Users\Dell\source\repos\Tx_PC\Tx.Bussiness.Interface\obj\Debug\Tx.Bussiness.Interface.pdb

@@ -1,0 +1,15 @@
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\Util.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\Util.pdb
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\Newtonsoft.Json.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\NPOI.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\NPOI.OOXML.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\Newtonsoft.Json.pdb
+E:\MyCode\python.learn\web\tx.website\Util\bin\Debug\Newtonsoft.Json.xml
+E:\MyCode\python.learn\web\tx.website\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+E:\MyCode\python.learn\web\tx.website\Util\obj\Debug\Util.csproj.CopyComplete
+E:\MyCode\python.learn\web\tx.website\Util\obj\Debug\Util.dll
+E:\MyCode\python.learn\web\tx.website\Util\obj\Debug\Util.pdb
